@@ -8,3 +8,11 @@
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 
+## Day 2: March 16
+
+**Today's Progress**: Complete the Basic CSS.
+
+**Thoughts:** I was a few minutes late because I hesitated in understanding the Fallback value to a CSS Variable. When I knew what to do, I did not know exactly where to put it. I confess that it made me laugh at myself sometimes. The second day was much warmer! CSS is addictive.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
