@@ -1,30 +1,10 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - 2019 - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 15
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Complete the Introduction to Basic HTML and HTML5 items and started the Introduction to Basic CSS, concluding the first five items.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I had an initial difficulty with nesting and in the first few lines I insisted on putting semicolon at the end of everything. The methodology and respectful rhythm of the freecodecamp helped me a lot to stay focused so that I was naturally adapting myself. The terms used although grammatically similar to everyday, seem to dance with the tags, this made everything as interesting as dangerous and delayed me a little ... That is, a paradox: The best thing in a challenge!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
