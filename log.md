@@ -16,3 +16,11 @@
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 
+## Day 3: March 17
+
+**Today's Progress**: Started Applied Visual Design
+
+**Thoughts:** My purpose was to finish "Applied Visual Design". But today, I had to be more present in my son's life. I'm leaving nine extra items for tomorrow, with great joy for that.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
