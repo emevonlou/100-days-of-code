@@ -24,3 +24,10 @@
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 
+## Day 4: March 18
+
+**Today's Progress**: Applied Visual Design and Applied Accessibility completed!
+
+**Thoughts:** I'm on the fourth day and I'm still surprised. The dialectical relationship between my person and knowledge is being given to me, could not be better. For each step, a "welcome" and a "goodbye" to the doubts that before the learning process, it seemed to me an endless condition. I was surprised by the Bezier curve, in how it makes the movement more harmonious.I had fun grouping elements with fieldset and improving accessibility with Landmark.I was happy , because there is nothing better than appreciate the main content with your element . =) I felt safe when I learned that I can improve content using the article element. I was feel great recognizing and identifying the figcaption element nested to the figure element to construct the independence of specific content, related to the main content. I found difficulties, but I did not lose focus. Let's move on! I look forward to the next topic.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
