@@ -36,6 +36,15 @@
 
 **Today's Progress**: Responsive Web Design Principles completed.
 
-**Thoughts:** I had difficulty with Responsive Web Design Principles. It took me to finish the last two items. What helped me to make it simple were the previous concepts, in particular, of the basic properties of css. How basic is important!
+**Thoughts:** I had difficulty with Responsive Web Design Principles. It took me to finish the last two items. What helped me to make it simple were the previous concepts, in particular, of the basic properties of css. How basic is important!   
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
+## Day 6: March 20
+
+**Today's Progress**: Introduction to the CSS Flexbox Challenges completed.
+
+**Thoughts:** I believe that with Flexbox you can create and organize layouts with CSS3 in a very elegant way. Through its properties / possibilities, I realized that tasks can be achieved with very few lines of code. 
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
