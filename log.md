@@ -44,7 +44,18 @@
 
 **Today's Progress**: Introduction to the CSS Flexbox Challenges completed.
 
-**Thoughts:** I believe that with Flexbox you can create and organize layouts with CSS3 in a very elegant way. Through its properties / possibilities, I realized that tasks can be achieved with very few lines of code. 
+**Thoughts:** I believe that with Flexbox you can create and organize layouts with CSS3 in a very elegant way. Through its properties / possibilities, I realized that tasks can be achieved with very few lines of code.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
+
+## Day 7: March 21
+
+**Today's Progress**: CSS Grid completed.
+
+**Thoughts:** We can more easily determine the reading stream.
+The grid helps us design the harmonious ones by balancing the weights of the graphic elements of the layout.
+Help position the elements more accurately.
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 
