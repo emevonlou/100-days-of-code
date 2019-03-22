@@ -59,3 +59,9 @@ Help position the elements more accurately.
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 
+## Day 8: March 22
+
+**Today's Progress**: "Build a Tribute Page" completed.
+
+**Thoughts:** Today was deliberately challenging. I considered the rules, though I felt like breaking a few. I may have broken it from trying so hard to follow them. One of the things that most appeals to me in the world code is precisely this incredible possibility of freedom. Anyway, very happy. I've encountered difficulties, of course. I'm a good beginner.
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
