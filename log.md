@@ -65,3 +65,12 @@ Help position the elements more accurately.
 
 **Thoughts:** Today was deliberately challenging. I considered the rules, though I felt like breaking a few. I may have broken it from trying so hard to follow them. One of the things that most appeals to me in the world code is precisely this incredible possibility of freedom. Anyway, very happy. I've encountered difficulties, of course. I'm a good beginner.
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
+## Day 9: March 23
+
+**Today's Progress**: "Tribute Page" github repository.
+
+**Thoughts:** Today I decided to reinforce the knowledge by creating a github repository with the content of the previous challenge.
+It is using [express to serve the static files](https://expressjs.com/pt-br/starter/static-files.html).
+
+**Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/freecodecamp_tribute_page)
