@@ -74,3 +74,13 @@ Help position the elements more accurately.
 It is using [express to serve the static files](https://expressjs.com/pt-br/starter/static-files.html).
 
 **Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/freecodecamp_tribute_page)
+
+## Day 10: March 24
+
+**Today's Progress**: Building a Survey Form.(work in progress)
+
+**Thoughts:** After a race at a pace incomprehensible to me of assimilation of isolated knowledge, I saw myself in another level: to organize everything.Being cautious has helped me focus on the details, I'm taking it easy, and a hurry just to make everything simpler. But today, better than yesterday, I felt progress in relation to to the pace I need.
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/screenshot.png)
+
+**Link to work:** [FreeCodeCampProgress!]
