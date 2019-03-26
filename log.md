@@ -94,3 +94,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/WmPqJy)
+
+## Day 12: March 26
+
+**Today's Progress**: "Survey Form" github repository/ Starting build of Product Landing Page.
+
+**Thoughts:** I like the initiations of projects, they always raise the possibility of the permanence of something beautiful. Of course, for this to happen, we need to devote time. I followed steps similar to the previous one: I used node.js and express as static file server, prepared the html structure and I am observing it as the one that decides, in all beginner joy, how the structures will "dance".
+
+
+
+**Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/freecodecamp_survey_form)
