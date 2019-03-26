@@ -84,3 +84,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 ![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/surveyform.png)
 
 **Link to work:** [FreeCodeCampProgress!]
+
+## Day 11: March 25
+
+**Today's Progress**: Survey Form completed.
+
+**Thoughts:** My experience today was sensational, especially when my submit button disappeared. I thought: OMG. The discipline that learning in web development allows, is causing me a tremendous good mood. After a few frustrating attempts, that "noob" feeling became more and more present, I decided to impose myself with a peculiar simplicity.
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/surveyform.png)
+
+**Link to work:** [FreeCodeCampProgress!]
