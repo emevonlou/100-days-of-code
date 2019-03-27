@@ -104,3 +104,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/freecodecamp_survey_form)
+
+## Day 13: March 27
+
+**Today's Progress**: Build of Product Landing Page.(work in progress)
+
+**Thoughts:** Today was full of different obligations, but amazingly for me, I made some progress in css. 
+
+
+
+**Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/NJZzwo)
