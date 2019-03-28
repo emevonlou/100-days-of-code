@@ -114,3 +114,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/NJZzwo)
+
+## Day 14: March 28
+
+**Today's Progress**: Build of Product Landing Page.(work in progress)
+
+**Thoughts:** Acquiring knowledge is something valuable. But holding on to organizing them is sublime, requiring depth. It's like a second affirmation of your goal. I confess, this part has been the hardest part of me. In programming itself, in what I felt in deep freedom, I committed to the value of the code, in the discipline, so that my code never looked like what it should be, although it works. This is so funny, because I felt so good programming messy loops. It's like feeling you know how to drive well and be disapproved in the traffic test for not knowing the proper procedure in practice. I feel that the initiative of the 100 days of the code is taking me where I always wanted to be, but I did not know where to start. Today was to put my "landing page" that was not at all responsive and not pretty, in github- with the promise of daily implementation until it is good for me, and organizational study day on Grid and Flexbox. Going back is not an option. That's when I can say gently: Forward.
+
+
+
+**Link to work:** [FreeCodeCampProgress!]
