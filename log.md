@@ -122,5 +122,15 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Thoughts:** Acquiring knowledge is something valuable. But holding on to organizing them is sublime, requiring depth. It's like a second affirmation of your goal. I confess, this part has been the hardest part of me. In programming itself, in what I felt in deep freedom, I committed to the value of the code, in the discipline, so that my code never looked like what it should be, although it works. This is so funny, because I felt so good programming messy loops. It's like feeling you know how to drive well and be disapproved in the traffic test for not knowing the proper procedure in practice. I feel that the initiative of the 100 days of the code is taking me where I always wanted to be, but I did not know where to start. Today was to put my "landing page" that was not at all responsive and not pretty, in github- with the promise of daily implementation until it is good for me, and organizational study day on Grid and Flexbox. Going back is not an option. That's when I can say gently: Forward.
 
 
-
 **Link to work:** [FreeCodeCampProgress!]
+
+
+## Day 15: March 29
+
+**Today's Progress**: Landing Page Completed(Missing a super grid in my menu)
+
+
+**Thoughts:** The curious case for me in today's progress has been to keep each other within the boundaries with the code. You wait for the answer to continue, as in a dance, so maybe my menu has not been responsive (laughs). But I realized with the feat, so simple, so true. Tomorrow I try again and again .... Today was the day to investigate, to order and to transform. Happy.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/freecodecamp_product_page)
