@@ -146,9 +146,9 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 **Link to work:** 
 
-![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g2(1).png)
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g2.png)
 
-![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g3(1).png)
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g3.png)
 
 
 
