@@ -134,3 +134,21 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/freecodecamp_product_page)
+
+
+## Day 16: March 30
+
+**Today's Progress**: Training grid and Flexbox.
+
+
+**Thoughts:** Today was a day of break between projects, I decided to extend the "Saturday night fever" taking advantage of all the charm that Grid and Flexbox promote me. Why do I like it so much? Because it is necessary to be lived like this. And these things are invaluable. I researched, messed, solved and customized examples. I mixed it as someone does at a party, enchanted by the scent of flowers. It's working!
+
+
+**Link to work:** 
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g1.png)
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g2.png)
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g3.png)
+
