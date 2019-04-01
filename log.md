@@ -127,7 +127,7 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 ## Day 15: March 29
 
-**Today's Progress**: Landing Page Completed(Missing a super grid in my menu)
+**Today's Progress**: Landing Page Completed
 
 
 **Thoughts:** The curious case for me in today's progress has been to keep each other within the boundaries with the code. You wait for the answer to continue, as in a dance, so maybe my menu has not been responsive (laughs). But I realized with the feat, so simple, so true. Tomorrow I try again and again .... Today was the day to investigate, to order and to transform. Happy.
@@ -151,4 +151,12 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 ![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g3.png)
 
 
+## Day 17: March 31
 
+**Today's Progress**: Start Build a Technical Documentation Page.
+
+
+**Thoughts:** I started the technical documentation page today, preparing the structure of HTML and CSS, and gradually, responsiveness is no longer a problem. One of the things that has most impressed me in this learning is that it always puts me in a position of humility, but that, in disinterested fidelity, makes me look up.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/XQWEPj)
