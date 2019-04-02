@@ -171,3 +171,14 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/XQWEPj)
+
+
+## Day 19: April 2
+
+**Today's Progress**: Technical Documentation Page Completed.
+
+
+**Thoughts:** I tried to produce something simple with a subtle touch of 1981 shell visuals, I wanted to make "hover {}" in the "links" and "headers" and a light simulation of "Monochrome Display type CRT". I wanted documentation that provoked me (with css and html) a certain curiosity without losing its simplicity. Historical knowledge is a revive, and performing that work with html, css and reading more about the shell certainly was a sure assertion of this.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/XQWEPj)
