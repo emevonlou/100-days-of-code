@@ -160,3 +160,14 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/XQWEPj)
+
+
+## Day 18: April 1
+
+**Today's Progress**: Start Build a Technical Documentation Page.(work in progress)
+
+
+**Thoughts:** Even with the day full of things to do, even believing that in many moments I could not get the time, I managed to realize a little of what took my memories all day. Happy.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/XQWEPj)
