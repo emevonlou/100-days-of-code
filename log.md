@@ -186,10 +186,22 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 ## Day 20: April 3
 
-**Today's Progress**: Start Build a Personal Portfolio Webpage.
+**Today's Progress**: Start Personal Portfolio Webpage.
 
 
 **Thoughts:** I prepared the html skeleton, this time with a bit more attention than before. I wrote the css and putting @media (which I consider particularly wonderful). I've been exploring the repetitions, and I've been able to develop a form that always enables responsiveness(finally). I've had some difficulties, for example, my portfolio h2 "refusing" to be centralized, but I can confess that I'm anxious so I can accomplish the deeds of my simplest ideas. I believe that with time, dedication, and respect for each experience, I'll understand each thing, in its truest sense. I hope I can finish tomorrow!
 
 
 **Link to work:** [FreeCodeCampProgress!](https://learn.freecodecamp.org/)
+
+
+## Day 21: April 4
+
+**Today's Progress**: Build a Personal Portfolio Webpage.(completed)
+
+
+**Thoughts:** Today was the day I finished my portfolio. The problem of the <h2> tag was solved, I, for a mishap of existence, had typed the wrong session id. I continued with the development, today had more spacing between the elements of the nav than I did on my landing page - I really wanted something different from the ones I had done and also the one indicated. Tomorrow I start the Javascript course (YAY), and so begins my process again.
+I am immensely grateful to the community, all of you, for your support, encouragement, understanding. Without you, this process would not have been lived with such tenderness. Gratitude for the various lessons. It was necessary to be lived, and you, along with me, believed. Thanks!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/certification/emevonlou/responsive-web-design)
