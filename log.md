@@ -178,7 +178,18 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Today's Progress**: Technical Documentation Page Completed.
 
 
-**Thoughts:** I tried to produce something simple with a subtle touch of 1981 shell visuals, I wanted to make "hover {}" in the "links" and "headers" and a light simulation of "Monochrome Display type CRT". I wanted documentation that provoked me (with css and html) a certain curiosity without losing its simplicity. Historical knowledge is a revive, and performing that work with html, css and reading more about the shell certainly was a sure assertion of this.
+**Thoughts:** I tried to produce something simple with a subtle touch of ~80's shell visuals, I wanted to make "hover {}" in the "links" and "headers" and a light simulation of "Monochrome Display type CRT". I wanted documentation that provoked me (with css and html) a certain curiosity without losing its simplicity. Historical knowledge is a revive, and performing that work with html, css and reading more about the shell certainly was a sure assertion of this.
 
 
 **Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/XQWEPj)
+
+
+## Day 20: April 3
+
+**Today's Progress**: Start Build a Personal Portfolio Webpage.
+
+
+**Thoughts:** I prepared the html skeleton, this time with a bit more attention than before. I wrote the css and putting @media (which I consider particularly wonderful). I've been exploring the repetitions, and I've been able to develop a form that always enables responsiveness(finally). I've had some difficulties, for example, my portfolio h2 "refusing" to be centralized, but I can confess that I'm anxious so I can accomplish the deeds of my simplest ideas. I believe that with time, dedication, and respect for each experience, I'll understand each thing, in its truest sense. I hope I can finish tomorrow!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://learn.freecodecamp.org/)
