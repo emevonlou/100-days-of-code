@@ -200,8 +200,7 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Today's Progress**: Build a Personal Portfolio Webpage.(completed)
 
 
-**Thoughts:** Today was the day I finished my portfolio. The problem of the <h2> tag was solved, I, for a mishap of existence, had typed the wrong session id. I continued with the development, today had more spacing between the elements of the nav than I did on my landing page - I really wanted something different from the ones I had done and also the one indicated. Tomorrow I start the Javascript course (YAY), and so begins my process again.
-I am immensely grateful to the community, all of you, for your support, encouragement, understanding. Without you, this process would not have been lived with such tenderness. Gratitude for the various lessons. It was necessary to be lived, and you, along with me, believed. Thanks!
+**Thoughts:** Today was the day I finished my portfolio. The problem of the "h2" tag was solved, I, for a mishap of existence, had typed the wrong session id. I continued with the development, today had more spacing between the elements of the nav than I did on my landing page - I really wanted something different from the ones I had done and also the one indicated. Tomorrow I start the Javascript course (YAY), and so begins my process again.I am immensely grateful to the community, all of you, for your support, encouragement, understanding. Without you, this process would not have been lived with such tenderness. Gratitude for the various lessons. It was necessary to be lived, and you, along with me, believed. Thanks!
 
 
 **Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/oOxzyY)
