@@ -204,3 +204,14 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/oOxzyY)
+
+
+## Day 22: April 5
+
+**Today's Progress**: Start Basic Javascript
+
+
+**Thoughts:** Today was the day to start the JavaScript language, one of the main characters from 1995 to the present. I gave myself the pleasure, from the comments, to the Quoting Strings with Single Quotes. Searching on each topic using in a "peering" style, exploring theoretical concepts of the js language. Just as I have discovered css (addictive) and html (stimulant), I want to complete the basic javascript with the same category it represents for me. happy!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://codepen.io/emevonlou/pen/oOxzyY)
