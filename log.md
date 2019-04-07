@@ -215,3 +215,15 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
+
+
+## Day 23: April 6
+
+**Today's Progress**: Start Basic Javascript- I stopped in Understanding Undefined Value returned from a Function.
+
+
+**Thoughts:** I continued the study in the code sentences, I had fun with push, pop, shift, unshift in arrays. Trying to think as simply as possible, this has helped me a lot in learning. Finding out how Javascript is organized is a wonderful task. Understanding the indefinite value returned from a function reminded me of the unpredictability we have developed, simply because we do not include return statements, and even though there is a correct internal process, the returned value will always be undefined. My happiness to know, that even this javaScript teaches.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
