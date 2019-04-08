@@ -227,3 +227,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
+
+## Day 24: April 7
+
+**Today's Progress**: Basic Javascript-Completed
+
+
+**Thoughts:** I can never forget that Sunday day. The challenge of a new language is never an easy task. I began by deconstructing within myself this idea of difficulty. It was not easy either. But I felt more stubborn than scared. This recognition was very important, because it was what in the moments threatening, made me stop and think. Everything became clearer later. Javascript reminded me of C ++ on several occasions and the smile was always inevitable, that was also encouraging. I accepted this challenge as a tacit contract. Tomorrow I'll start ES6! I do not know where to put so much happiness.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
