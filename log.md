@@ -237,3 +237,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Thoughts:** I can never forget that Sunday day. The challenge of a new language is never an easy task. I began by deconstructing within myself this idea of difficulty. It was not easy either. But I felt more stubborn than scared. This recognition was very important, because it was what in the moments threatening, made me stop and think. Everything became clearer later. Javascript reminded me of C ++ on several occasions and the smile was always inevitable, that was also encouraging. I accepted this challenge as a tacit contract. Tomorrow I'll start ES6! I do not know where to put so much happiness.
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
+
+## Day 25: April 8
+
+**Today's Progress**: Start ES6
+
+
+**Thoughts:** After an exciting weekend with Javascript, I had to start very calmly on ES6. `var` gave way to `let` and `const` is the favorite. With `Object.freeze` I learned to value specific objects, to replace them and to display them when necessary. I was not accustomed to writing constants in "capslock", this gave me some instant bugs accompanied by shy smiles later. On the `Arrow Functions`- (OMG), there is a simplicity full of meaning, less lines of code, that say more than enough to impressed.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
