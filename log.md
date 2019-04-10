@@ -247,3 +247,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Thoughts:** After an exciting weekend with Javascript, I had to start very calmly on ES6. `var` gave way to `let` and `const` is the favorite. With `Object.freeze` I learned to value specific objects, to replace them and to display them when necessary. I was not accustomed to writing constants in "capslock", this gave me some instant bugs accompanied by shy smiles later. On the `Arrow Functions`- (OMG), there is a simplicity full of meaning, less lines of code, that say more than enough to impressed.
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
+
+## Day 26: April 9
+
+**Today's Progress**: Start ES6(work in progress)
+
+
+**Thoughts:** I am exercising and learning to perceive when a concept asks to be abstracted into a new word. And something has taken my thinking for a few hours: Arrays for example, when an array is provided for the method to act on it, forEach expects only one required argument: the function to be executed for each element. Higher order functions allow us to abstract actions. They can be in a variety of ways. For example, you can have functions that create new functions, functions that change other functions, you can even write functions that provide new types of control flows. How cool is that? Think simple to make it possible to solve high level problems.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
