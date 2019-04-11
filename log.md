@@ -257,3 +257,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Thoughts:** I am exercising and learning to perceive when a concept asks to be abstracted into a new word. And something has taken my thinking for a few hours: Arrays for example, when an array is provided for the method to act on it, forEach expects only one required argument: the function to be executed for each element. Higher order functions allow us to abstract actions. They can be in a variety of ways. For example, you can have functions that create new functions, functions that change other functions, you can even write functions that provide new types of control flows. How cool is that? Think simple to make it possible to solve high level problems.
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
+
+## Day 27: April 10
+
+**Today's Progress**: Start ES6(work in progress)
+
+
+**Thoughts:** Today was a day full of allergic rhinitis.I had difficulty administering and completing the "Use Destruction Assignment to Assign Variables from Objects" item. Rhinitis does not like immediacy. Good to know. I hope tomorrow will be better, meanwhile, I keep trying to build simple examples.
+
+**Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
