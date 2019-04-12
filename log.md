@@ -267,3 +267,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Thoughts:** Today was a day full of allergic rhinitis.I had difficulty administering and completing the "Use Destruction Assignment to Assign Variables from Objects" item. Rhinitis does not like immediacy. Good to know. I hope tomorrow will be better, meanwhile, I keep trying to build simple examples.
 
 **Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 28: April 11
+
+**Today's Progress**: ES6(work in progress)
+
+
+**Thoughts:** Another day of rhinitis. I put examples in github, I started to develop a basic contact form with html, CSS and JS, I hope to finally finish tomorrow ES6.
+
+**Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
