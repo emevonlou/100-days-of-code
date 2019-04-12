@@ -277,3 +277,12 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Thoughts:** Another day of rhinitis. I put examples in github, I started to develop a basic contact form with html, CSS and JS, I hope to finally finish tomorrow ES6.
 
 **Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+## Day 29: April 12
+
+**Today's Progress**: ES6(completed)
+
+
+**Thoughts:** Missing @media query and organizing the code from my contact form. I put more examples in github. Tomorrow I start Regular Expressions with an almost childish joy.
+
+**Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
