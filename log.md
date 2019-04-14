@@ -286,3 +286,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Thoughts:** Missing @media query and organizing the code from my contact form. I put more examples in github. Tomorrow I start Regular Expressions with an almost childish joy.
 
 **Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 30: April 13
+
+**Today's Progress**: ES6(completed)
+
+
+**Thoughts:** I exercised the basics of ES6 (I've sent more examples to github), I stopped in the "Match Anything with Wildcard Period" item of Regular Expressions and tomorrow I finally hope to finish my little project of contact form.
+
+**Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
