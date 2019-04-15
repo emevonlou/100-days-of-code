@@ -290,9 +290,19 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 ## Day 30: April 13
 
-**Today's Progress**: ES6(completed)
+**Today's Progress**: Regular Expressions(In progress)
 
 
 **Thoughts:** I exercised the basics of ES6 (I've sent more examples to github), I stopped in the "Match Anything with Wildcard Period" item of Regular Expressions and tomorrow I finally hope to finish my little project of contact form.
+
+**Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 31: April 14
+
+**Today's Progress**: Regular Expressions(In progress)
+
+
+**Thoughts:** Sunday is the day that I work the most and I run the risk of not coding. I made a contact portfolio and I'm playing with it, since I knew it would take me a while to say that it is ready, I decided to put it in the codepen. I stopped in the item "Match Characters that Occur Zero or More Times" of regular expressions (which, by the way: it's fun, but no joke). When I'm coding, I'm happy.
 
 **Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
