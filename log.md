@@ -317,12 +317,28 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 **Link to work:** [MyProgress!](https://codepen.io/emevonlou/pen/jRaMmx)
 
+
+
 ## Day 33: April 16
 
 **Today's Progress**: Regex(em progresso)
 
 
-**Thoughts:** Hoje foi um dia repleto de obrigações exteriores. Não consegui conter minha curiosidade acerca da produção de animações em css,e claro, como um ser absolutamente curioso, fui testar. Até que deu certo. Estudei Javascript e regex, postei exemplos no github. 
+**Thoughts:** Hoje foi um dia repleto de obrigações exteriores. Não consegui conter minha curiosidade acerca da produção de animações em CSS,e claro, como um ser absolutamente curioso, fui testar. Até que deu certo. Estudei Javascript e Regex, comitei exemplos no github. 
 
 
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+
+## Day 34: April 17
+
+**Today's Progress**: Regex(em progresso)
+
+
+**Thoughts:** Foi um dia exclusivo pro Regex, tive bastante dificuldade inicial na resolução dos desafios mas algo tem me salvo das noites sem sono: A Udemy(Curso gratuito,que pra mim está sendo um alívio.Deixarei o link abaixo). Comitei no meu gitHub alguns exemplos do freecodecamp(Regex). 
+
+
+**Link to work:** [UdemyCourseRegex](https://www.udemy.com/regex-academy-an-introduction-to-text-parsing-sorcery/learn/v4/overview)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
