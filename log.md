@@ -316,3 +316,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Thoughts:** Today was the day to test basic knowledge making the game "Jokenpô" (stone, paper and scissors). My first `Math.random()` in JavaScript!
 
 **Link to work:** [MyProgress!](https://codepen.io/emevonlou/pen/jRaMmx)
+
+## Day 33: April 16
+
+**Today's Progress**: Regex(em progresso)
+
+
+**Thoughts:** Hoje foi um dia repleto de obrigações exteriores. Não consegui conter minha curiosidade acerca da produção de animações em css,e claro, como um ser absolutamente curioso, fui testar. Até que deu certo. Estudei Javascript e regex, postei exemplos no github. 
+
+
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
