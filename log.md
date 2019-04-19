@@ -349,7 +349,7 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Today's Progress**: Regex and Debugging(completed)
 
 
-**Thoughts:** It was hard to finish the Regex, I needed more time and external resources(courses) to reach understanding. But in the excitement, I realize how Debugging section is fun and start Basic Data Structures tomorrow.
+**Thoughts:** It was hard to finish the Regex, I needed more time and external resources(courses) to reach understanding. But in the excitement, I realized how Debugging section is fun and start Basic Data Structures tomorrow.
 
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
