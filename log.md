@@ -321,10 +321,10 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 ## Day 33: April 16
 
-**Today's Progress**: Regex(em progresso)
+**Today's Progress**: Regex(in progress)
 
 
-**Thoughts:** Hoje foi um dia repleto de obrigações exteriores. Não consegui conter minha curiosidade acerca da produção de animações em CSS,e claro, como um ser absolutamente curioso, fui testar. Até que deu certo. Estudei Javascript e Regex, comitei exemplos no github. 
+**Thoughts:** Today was a day full of different obligations. I could not contain my curiosity about the production of CSS animations, and of course, as an absolutely curious being, I went to test. Until it worked. I studied Javascript and Regex, I made examples in github.
 
 
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
@@ -334,11 +334,22 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 ## Day 34: April 17
 
-**Today's Progress**: Regex(em progresso)
+**Today's Progress**: Regex(in progress)
 
 
-**Thoughts:** Foi um dia exclusivo pro Regex, tive bastante dificuldade inicial na resolução dos desafios mas algo tem me salvo das noites sem sono: A Udemy(Curso gratuito,que pra mim está sendo um alívio.Deixarei o link abaixo). Comitei no meu gitHub alguns exemplos do freecodecamp(Regex). 
+**Thoughts:** It was an exclusive day for Regex, I had enough initial difficulty in solving the challenges but something has saved me from sleepless nights: A Udemy (Free course, which for me is being a relief. I have discussed some examples of FreecodeCamp (Regex) in my gitHub.
 
 
 **Link to work:** [UdemyCourseRegex](https://www.udemy.com/regex-academy-an-introduction-to-text-parsing-sorcery/learn/v4/overview)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 35: April 18
+
+**Today's Progress**: Regex and Debugging(completed)
+
+
+**Thoughts:** It was hard to finish the Regex, I needed more time and external resources(courses) to reach understanding. But in the excitement, I realize how Debugging section is fun and start Basic Data Structures tomorrow.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
