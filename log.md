@@ -353,3 +353,14 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
+
+## Day 36: April 19
+
+**Today's Progress**: Javascript exercises
+
+
+**Thoughts:** So today was another day filled with wonderful obligations. Among them, my study in JavaScript!For lack of time today, before entering the session Basic Data Structures, I decided to exercise JS. I learned more, in a meticulous way, how are operations with destructuring, solved exercises and put examples in my GitHub. I had no difficulty understanding, things seem much clearer to me today, and I can say that I am taking advantage of the opportunity in the exercise of this learning, the destructuring in almost everything.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
