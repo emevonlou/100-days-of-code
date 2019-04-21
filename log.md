@@ -364,3 +364,15 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 37: April 20
+
+**Today's Progress**: Start Basic Data Structures
+
+
+**Thoughts:** Another day in Javascript exercise! I'm treating this phase with very maturely. I continue in my Udemy courses, sending examples to GitHub, I stopped today in the "Create complex multi-dimensional arrays" of the session "Basic Data Structures". I was waiting for this moment, my desire to move fast has been shorter than my desire to live every detail. I hope during this race week I do not get excited to finish soon.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
