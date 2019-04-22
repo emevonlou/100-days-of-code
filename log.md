@@ -376,3 +376,14 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 38: April 21
+
+**Today's Progress**: Start Basic Data Structures(in progress)
+
+
+**Thoughts:** I stopped in the "Use the Delete Keyword to Remove Object Properties" item(freecodecamp), I solved exercises and sent examples to my GitHub. I have not had very serious problems so far, although the arrays have caused me a habitual impatience.Of course I've been wrong many times, I was in a hurry to put the answers right away and with array things can not be like this. Not for a beginner.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
