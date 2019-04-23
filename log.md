@@ -387,3 +387,13 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 39: April 22
+
+**Today's Progress**: Basic Data Structures(completed)
+
+**Thoughts:**  I've put examples in gitHub and completed more items based on the udemy course. Finally I can say that things are getting simple as I wished. Tomorrow I start the session "Basic Algorithm Scripting"!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
