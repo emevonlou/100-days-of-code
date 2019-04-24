@@ -403,7 +403,7 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 **Today's Progress**: Start Basic Algorithm Scripting
 
-**Thoughts:**  Today was the day to convert celsius to fahrenheit in the freeCodeCamp. I chose in this section, make it a challenge per day and  try to create something with html and css too (hope that be a good idea-`laughs`). Put some examples in github with the "for" and "for / in". It was fun.
+**Thoughts:**  Today was the day to convert celsius to fahrenheit in the freeCodeCamp. I chose in this section, make it a challenge per day and will try to create something with html and css too (hope that be a good idea-`laughs`). Put some examples in github with the "for" and "for / in". It was fun.
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
