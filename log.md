@@ -408,6 +408,8 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
+
+
 ## Day 41: April 24
 
 **Today's Progress**: Start Basic Algorithm Scripting(in progress)
@@ -415,5 +417,19 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Thoughts:**  I finished two items from the session "Basic Algorithm Scripting", Convert Celsius to Fahrenheit, and Reverse a String. I put an example of my solutions in gitHub and codepen with html and basic css (codepen did not like my internal 'onkeyup' in html- YAY -I have little bugs to solve!). Happiness is a hot weapon with html, css and JS.
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
-**Link to work:** [CodePen.io](https://codepen.io/emevonlou/pen/NmENgm)
+
+**Link to work:** [CodePen](https://codepen.io/emevonlou/pen/NmENgm)
+
+
+
+
+## Day 42: April 24
+
+**Today's Progress**: Start Basic Algorithm Scripting(in progress)
+
+**Thoughts:**  Today I exercised functions and a little of "this", put the examples in gitHub and posted the "reverse string" challenge in the codePen. Everything worked.
+
+**Link to work:** [CodePen](https://codepen.io/emevonlou/pen/zXypmX)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
