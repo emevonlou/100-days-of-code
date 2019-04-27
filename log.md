@@ -433,3 +433,14 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 **Link to work:** [CodePen](https://codepen.io/emevonlou/pen/zXypmX)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 43: April 25
+
+**Today's Progress**: Start Basic Algorithm Scripting(in progress)
+
+**Thoughts:**  Continuing with the Javascript studies, I did one more example of `this` with the `bind function` and two others about `arrow function`, I finished one more item of the freecodecamp(Factorialize the Number) and I'm already thinking about what to do with it tomorrow, of course, including html and css. I put the examples in github. I'm exhausted. But giving up is not an option!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
