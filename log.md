@@ -456,3 +456,15 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 45: April 27
+
+**Today's Progress**: Basic Algorithm Scripting(Completed)
+
+**Thoughts:**  Day to complete with joy the session Basic Algorithm Scripting(put my solutions in GitHub). As I said before, I will continue to take advantage of some challenges of this session, to train the basics of other things I have learned. This has helped me a lot. 
+
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
