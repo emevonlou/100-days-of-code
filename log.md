@@ -468,3 +468,16 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+## Day 46: April 28
+
+**Today's Progress**: Training JS
+
+**Thoughts:**  Training day JS, put examples in gitHub and build in an almost cluttered haste, my mini and simple page of factorial calculation.
+
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
