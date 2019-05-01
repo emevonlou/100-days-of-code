@@ -425,7 +425,7 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 
-## Day 42: April 24
+## Day 42: April 25
 
 **Today's Progress**: Start Basic Algorithm Scripting(in progress)
 
@@ -435,7 +435,7 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
-## Day 43: April 25
+## Day 43: April 26
 
 **Today's Progress**: Start Basic Algorithm Scripting(in progress)
 
@@ -446,7 +446,7 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
-## Day 44: April 26
+## Day 44: April 27
 
 **Today's Progress**: Start Basic Algorithm Scripting(in progress)
 
@@ -458,7 +458,7 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
-## Day 45: April 27
+## Day 45: April 28
 
 **Today's Progress**: Basic Algorithm Scripting(Completed)
 
@@ -471,11 +471,24 @@ It is using [express to serve the static files](https://expressjs.com/pt-br/star
 
 
 
-## Day 46: April 28
+## Day 46: April 29
 
 **Today's Progress**: Training JS
 
 **Thoughts:**  Training day JS, put examples in gitHub and build in an almost cluttered haste, my mini and simple page of factorial calculation.
+
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 47: April 30
+
+**Today's Progress**: Object Oriented Programming(Completed)
+
+**Thoughts:**  I put the challenges and some examples in GitHub.
+And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 
 
