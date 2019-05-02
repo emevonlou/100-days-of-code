@@ -494,3 +494,14 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 48: May 01
+
+**Today's Progress**: Functional Programming(Completed)
+
+**Thoughts:**  I spent all the day alternating between my daily tasks and the Freecodecamp). It was difficult, but absolutely rewarding. And it is with great joy that I say that tomorrow I begin Intermediate Algorithm Scripting !!(I put an example with a little about arrays in gitHub).
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
