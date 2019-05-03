@@ -505,3 +505,14 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 49: May 02
+
+**Today's Progress**: Training JS
+
+**Thoughts:**  Yesterday was a day that demanded too much from me, so today was the day I spent my son Joaquim essentially. But of course I could not fail to comply with my commitment made here (and much respected by me). So I joked a little with arrays and put examples in github.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
