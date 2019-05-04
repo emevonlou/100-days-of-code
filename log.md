@@ -516,3 +516,14 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 50: May 03
+
+**Today's Progress**: Intermediate Algorithm Scripting(Start)
+
+**Thoughts:**  One of the best things in life is you recognize and respect your own time. Incredibly, the good old paradoxical relationship comes back to me when it comes to algorithms. The will to go fast and at the same time a deep need to transmute everything slowly. Well, I was like that today, I stopped in the "Wherefore art thou" item, giving me the gift of an expectation and the peculiar freedom that only the 100 days of code managed to attribute to me. I put a very basic example of forEach in GitHub, and I end with a sentence that could only be said in Portuguese: Que eu adore o basicão, pois!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
