@@ -527,3 +527,16 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 51: May 04
+
+**Today's Progress**: Intermediate Algorithm Scripting(in progress)/ transforming my HTMl into semantic!/ and training JS
+
+**Thoughts:**  Today I spent a bit investing in my portfolio, using the beautiful html semantics! I really followed the rules and when I realized it was there, those wonderful, long-awaited curves. I am very happy about the return of what I have studied. Of course, I still have to learn an infinite amount of things, but to know that things are working, if organized so, without appearing to be something of an absurd sacrifice (as it seemed before I considered myself a real beginner) is absolutely gratifying and encouraging. Making it simple works !!!!! I made one more item in the Intermediate Algorithm Scripting session (Wherefore art thou) and put another simple and wonderful example of implementing my own foreach (OMG <3)
+
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/html.png)
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
