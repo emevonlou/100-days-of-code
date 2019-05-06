@@ -550,3 +550,13 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 53: May 06
+
+**Today's Progress**: Intermediate Algorithm Scripting(in progress)
+
+**Thoughts:**  Conclude four more items from the "Intermediate Algorithm Scripting" session, I put two more map examples in github. I deliberately studied also html semantic and animations with css, all very pure.I hope tomorrow finally to leave for the next session of the freecodecamp with the same joy and with more time!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
