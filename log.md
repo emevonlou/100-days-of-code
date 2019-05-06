@@ -540,3 +540,13 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 52: May 05
+
+**Today's Progress**: Intermediate Algorithm Scripting(in progress)
+
+**Thoughts:**  I stopped in the `Sum All Odd Fibonacci Numbers` item, exactly in the middle of the road! For me? Extraordinary. I never thought of going that far, and I feel more and more distant from what made me doubt it. I put an example map (map an array to another array with the same size only with the transformed data) in GitHub. Tomorrow has more! YAY!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
