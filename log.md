@@ -560,3 +560,13 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 54: May 07
+
+**Today's Progress**: Intermediate Algorithm Scripting(completed)
+
+**Thoughts:**  I was able to finish Intermediate Algorithm Scripting! I followed only the step by step, trying to think what I could do with what I had learned with JS / ES6 in each one, and things just went right. Sometimes I took tips, but I always tried to follow my own line of reasoning. I can not say that it was easy, and in a way I'm glad I could not say (by the degree of difficulty that reigned throughout the process and even then, that did not stop me.) I put filter and reduce examples in GitHub, I trained keyframes and animations to celebrate.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
