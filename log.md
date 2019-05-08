@@ -570,3 +570,14 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 55: May 08
+
+**Today's Progress**: Training JS
+
+**Thoughts:** Another day of training of JS of its own free will (I realized that after a crazy frequency of challenges, this is essential for me and it works), is how to retreat a little, for the jump to be higher. I realized on this journey that each of us has a rhythm, and there dwells a truth that deserves respect. I particularly believe in the beauty of each one's rhythm and I also believe that this is how the extraordinary teams are formed! I put more examples in GitHub! I go on, there is no back (YAY)!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
