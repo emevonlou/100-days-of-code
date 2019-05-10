@@ -581,3 +581,14 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 56: May 09
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Projects(Start)
+
+**Thoughts:** I started JavaScript Algorithms and Data Structures Projects facing Palindrome Checker! It was constructive, I had difficulties (the dynamism of the JS gives me lots of laughs - I made a lot of mistakes), but in the end, everything went well. I have advanced and the way I have dealt with the new challenges has proved this to me. Happy.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
