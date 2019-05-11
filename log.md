@@ -592,3 +592,14 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 57: May 10
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Projects(Start)
+
+**Thoughts:** Today was the day of the famous Roman Numeral Converter (Aha!) I just realized how much I had written after I finished (And I thought I only felt this with html, CSS- if I'm feeling the same thing whit JS is a good sign! ), If, else, push and everything else that I have right! I'm already thinking about what to do with this challenge and  html and CSS  together (every day I do something simple with HTML-CSS and give to my son Joaquim <3). I still have time. I put examples in GitHub about the difference between an imperative and declarative JS code. Tomorrow has more challenge!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
