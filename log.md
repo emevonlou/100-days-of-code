@@ -614,3 +614,14 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 59: May 12
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Projects(in progress)
+
+**Thoughts:** Another challenge completed, today was the Telephone Number Validator day with its crazy and organized regex. I had never done anything like that before, when I finished that 'endless' list of commands, I was in doubt if it was going to work (I love my beginner things), but it did work on the first try! I put more examples in GitHub and tomorrow there's more (YaY)!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
