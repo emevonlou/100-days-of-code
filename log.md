@@ -603,3 +603,14 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 58: May 11
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Projects(in progress)
+
+**Thoughts:** Caesars Cipher completed! This session has been the most fun for me. In addition to helping to reaffirm what I learned and I'm learning the way I like (simple) by establishing an incredible union between all the challenges that I have experienced in FreeCodeCamp, it makes me think in a more comprehensive way, reaffirming not only the code itself, but other things that are very important to me. I put examples in GitHub with the new methods learned for strings, `Arrayfrom`, `Arrayof`, `Arrayfind` and `Arrayfilter`. I also put in my codepen finally my Palindrome checker (in html, css and JS)!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
