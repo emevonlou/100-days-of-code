@@ -625,3 +625,15 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+## Day 60: May 13
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Projects(completed)
+
+**Thoughts:** This session had to end with the Cash Register! When I finished my last challenge before the long dreamed-up certificate, I thought of all the things I had to deprive myself with joy, and that now I could finally turn to them, with the same joy, to inform that it was worth it. I did not imagine it would be today, I could only believe when, when the final one arrived, I thought of all the things I love and that they understood me in order to give me a push, a map, a filter, a reduce, a find in the console .log (life). Deep gratitude to the community, for making me understand for the beyond of the code. I'm in a hurry, I want to be up to it, every day, trying the simple and transmuting with it, all the complexity. Very happy.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
