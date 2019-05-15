@@ -637,3 +637,15 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+## Day 61: May 14
+
+**Today's Progress**: Front End Libraries Certification(Start)
+
+**Thoughts:** Today was my first contact with Bootstrap, I stopped in the item "Ditch Custom CSS for Bootstrap". After a long, gentle journey through HTML, CSS and JS, I feel at home to say with vehemence that they together are a threesome that delights. To come across a framework that makes things more practical and understand the step by step, it was a beautiful way of saying to me that I learned. And I did it with joy. Starting dancing with bootstrap is an incredible experience. I put more examples of JS in GitHub. Thank you so much the community for the support, you are amazing.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
