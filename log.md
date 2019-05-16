@@ -649,3 +649,16 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+## Day 62: May 15
+
+**Today's Progress**: Front End Libraries Certification(in progress)
+
+**Thoughts:** Second day with Bootstrap, I confess I'm having a lot of fun. By learning about those wonderful strategic "classes", the first thing I did was to go testing on my old projects and see everything working was rewarding. I value my first projects too much, each of them carries a story, a moment of my life that I will carry forever. So, today I concludes another item from the session Front End Libraries Certification (Bootstrap), practiced JS with 'multiple promises' and 'prototypal inheritance' (I've put examples in github) and so far I'm training Bootstrap (grid system, media object, borders, colors and text ), perhaps the night is long, alternating my gaze between my son Joaquim and the this cold screen, hotter than ever, with code.
+
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
