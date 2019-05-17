@@ -662,3 +662,16 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+## Day 63: May 16
+
+**Today's Progress**: Front End Libraries Certification(in progress)
+
+**Thoughts:** So let's go for the third day with Bootstrap! I'm using my old tribute page to test the basic features. I almost get lost in time, putting in, replacing classes, imagining, testing things different from the standard, and returning to the pattern (independent of order) to recognize the best path. I realized that the best thing at this stage is to test, you learn a lot from that. I've put in the item "Add Font Awesome Icons to our Buttons" (I'm trying my best to take it easy - this has been important for my learning), I've put examples in JS GitHub (class extended, Symbols, Iterators and Iterables). And honestly, tomorrow has more! 
+
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
