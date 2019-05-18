@@ -675,3 +675,19 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+## Day 64: May 17
+
+**Today's Progress**: Front End Libraries Certification(in progress)
+
+**Thoughts:** Today was another day full of different obligations. But I confess, it was easier to administer, and every day, it's getting easier. As if I were working out an algorithm for each task to be done. Before entering this journey I had no idea of the level of depth that is attained by risking being a web developer. Subtly, things are changing for you. So, one fine day, you will enjoy more and more of what you even imagined would exist or would be possible in your life. This holds true for both code and everyday life. So, I stopped the "Style Text Inputs as Form Controls" (Bootstrap-FreeCodeCamp), put JS examples in GitHub(Generators and proxy), and took a screenshot of my tribute page before (without Bootstrap) and then (with Bootstrap). Now, I need to go play with Joaquim and tell him, once again, about my fantastic experience.
+
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/without_bootstrap.png)
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/with_bootstrap.png)
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
