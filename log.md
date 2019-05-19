@@ -691,3 +691,15 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+## Day 65: May 18
+
+**Today's Progress**: Bootstrap(Completed)
+
+**Thoughts:** Still in adaptation period with Bootstrap (makes things more practical and maybe so I have considered a priori strange). I was not dealing with any abstraction, things were ready and I just really needed to know their place in the code. But that's where it is, this opened up another possibility: to imagine, visualize and feel capable of, in less time to realize. In a way I gained more time, but I also noticed another important thing: I was so always busy learning, that I needed time again, that beginner time, to feel, and that was when one of the lessons of Bootstrap became clear to me to the beyond the code. I am building my personal website and also put examples in github(Async/Await). Very happy to know that tomorrow jQuery start!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
