@@ -703,3 +703,16 @@ And tomorrow will be another day of JS (Functional Programming- YAY)!
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+## Day 66: May 19
+
+**Today's Progress**:Training Bootstrap, JS and working on my site.
+
+**Thoughts:** Training day and consolidation. As in every interval between one session and another, I will start jQuery after my revisions. I reviewed Bootstrap, put JS examples in GitHub (Async / Await with multiple promises and
+String.prototype.padStart and padEnd). I've implemented more classes in the tags of my personal site (Not being done with Bootstrap because 'pure' knowledge is part of my story and I want to keep it- in the case.) I am very eager to create things, but I do not have time to this, which causes me some dismay, I hope that tomorrow I will take some more time to accomplish the feats I have dreamed of. The day was tiring, but I was able to do what was in the plans.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
