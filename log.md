@@ -726,7 +726,7 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 
 ![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g1.png)
 
-![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/vonlousite.png)
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g4.png)
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
