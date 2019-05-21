@@ -716,3 +716,17 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 67: May 20
+
+**Today's Progress**:Training Bootstrap, JS and working on my site.
+
+**Thoughts:**My funny system: A speed of execution of FreecodeCamp and a slowness in the choice of images in my code. How good to recognize in this way! Something happened that was not in my plans (that's reason to celebrate). I got too excited about building my site and training JS. Of course I'm anxious to start jQuery, but I have some extraordinarily things to do which I can not leave out of the way. In css, absolutely delighted by the unit (.em), in html very excited in tables with Bootstrap, in JS very happy with the utility of Object entries / Object.values(I put examples in GitHub)! Taking advantage to "rigueur". Happy!
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/g1.png)
+
+![Alt screenshot](https://raw.githubusercontent.com/emevonlou/100-days-of-code/master/vonlousite.png)
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
