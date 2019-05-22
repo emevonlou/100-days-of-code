@@ -742,3 +742,14 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 69: May 22
+
+**Today's Progress**: jQuery(in progress)
+
+**Thoughts:** I stopped in the "Target the Parent of an Element Using jQuery" item, started my studies with sass, installed, tested and imported some files (YAY). I've trained algorithms (js- I've put an example in github) and have gone a little farther in developing my personal site. And it is with all joy that I say: tomorrow there is more!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
