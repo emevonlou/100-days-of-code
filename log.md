@@ -730,3 +730,15 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 68: May 21
+
+**Today's Progress**: Start jQuery.
+
+**Thoughts:** I had very little time hj but I managed to do a bit of everything to start jquery (= D)! I stopped the item
+"Change Text Inside an Element Using jQuery". Dynamic, practical and easy to understand (That was my first impression). I studied algorithms (I put examples in GitHub) and worked a little more on my personal website.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
