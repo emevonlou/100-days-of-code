@@ -753,3 +753,15 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 70: May 23
+
+**Today's Progress**: jQuery(Completed)
+
+**Thoughts:** jQuery is wonderful, I loved this freecodecamp preview! But of course I'm doing apart, my alternative exercises. Today was also a day of playing with SASS within my portfolio page, importing more pages, adding more variables and finding out today that I can nest my selectors! I put more examples of algorithms in GitHub and tomorrow I started in freecodecamp what I had already started since half of the challenges of jquery: the amazing pink hulk called sass.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
