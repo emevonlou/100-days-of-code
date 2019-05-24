@@ -765,3 +765,14 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
+
+## Day 71: May 24
+
+**Today's Progress**: Sass(start)
+
+**Thoughts:** Today was the day to learn more of Sass's properties, variables / @ if / @ else if / @ else / @ for starting the verisimilitude with Javascript. Difficulties still encounter, as in every great beginning, in putting each thing in its specific place. Today was easier because I started studying sass while still following the jQuery challenges (But I believe things will heat up by the end- laughs). If I had known before that I should have a preview for the beyond of the superficial of each subject, I would have had less difficulty. Modifying the strategy was a gift I gave myself. I stopped in the "Use @each to Map Over Items in a List" section of the Sass session, I trained algorithms in JS (I put an example in GitHub) and I worked a little more on my seemingly shelved projects!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
