@@ -776,3 +776,15 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
+
+
+## Day 72: May 25
+
+**Today's Progress**: Sass(in progress)
+
+**Thoughts:** Today was a day full of different activities, wow I'm so tired. But even that did not stop me from having the pleasure of another day of code. I trained javascript by manipulating arrays, stopped in the "Apply a Style Until a Condition is Met with @while" section of the freecodecamp 'Sass' session and made improvements to my eternal production of tests on my portfolio page. Everything worked!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
