@@ -788,3 +788,16 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
+
+
+## Day 73: May 26
+
+**Today's Progress**: Sass(completed)
+
+**Thoughts:** Sass passed so fast! My happiness is knowing that I will still have it for a long time and my life, I am testing everything in my personal portfolio and it has worked. Today was also day of training algorithms in JS (I put an example in GitHub). Very happy to know that I am ever closer to the possibility so dreamed of me. My next session is React (YAY)!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
