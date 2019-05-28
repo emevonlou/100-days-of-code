@@ -801,3 +801,15 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+
+## Day 74: May 27
+
+**Today's Progress**: React(start)
+
+**Thoughts:**  Starting a disinterested loyalty with React is very encouraging. I Concluded some items from the Udemy course and stopped at "Render HTML Elements to the DOM" of the freecodecamp React session. And of course I keep training Javascript, I put another example in my GitHub to persist the rhythm! tomorrow has more!!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
