@@ -820,6 +820,13 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Thoughts:**  So I'm in progress. Going easy on React (I'm trying, I promise), even because I want to synchronize it with my udemy course. I literally love the beginning difficulties, I also like when they are demystifying, the curiosity they provoke, the momentary indignation with their genius sentence at making us laugh at ourselves! I stopped in the "Define an HTML Class in JSX" item, I repeated the previous challenge a few times, reaffirming the knowledge. I put an example in GitHub of Algorithms in JS, I trained Sass, and I watched some more React classes from Udemy's course! Forward <3
 
 
+## Day 76: May 29
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:**  The day was full, so full that I almost could not stand face to face with the binary lawyer of my fate (computer). Glad I got it! I stopped in the "Create a React Component" section of the React session, I trained algorithms, I put a second chunk solution from yesterday in github. I hope tomorrow, that my time is proportional to my will. 
+
+
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
