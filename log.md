@@ -831,3 +831,15 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+
+## Day 77: May 30
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:**  I stopped the "Write a React Component from Scratch" Item, I trained Javascript algorithms (of course I have a new GitHub example), I trained sass (variables, import) on my personal site. The only thing that has bothered me is that because I'm not skipping anything in Udemy's course, I have had difficulty synchronizing it with the freecodecamp. Even so, I move on, today I got more excited about React, this idea to create and compose components is great! Just like yesterday and today, the next few days will be filled with external tasks for me, I will change my residence, and I have a lot to organize, but I am still in the 100 days of code, so I will certainly do whatever it takes to make myself present.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
