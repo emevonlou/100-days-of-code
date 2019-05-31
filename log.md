@@ -843,3 +843,16 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+
+## Day 78: May 31
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** I stopped in the "Pass an Array as Props" Item of the FreeCodeCamp React session. I have tried the second solution to make anagrams-in JS (It's in my GitHub), I'm testing the properties of sass and React in a same project (OMG- somebody stop me) I've tried these psychedelic prowess to take it easy with React I confess I'm having a lot of fun with creating components so much that I get lost in time). At the end of everything, a smile on your face with the good old feeling that tomorrow has more!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
