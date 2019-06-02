@@ -856,3 +856,15 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 
 
 
+## Day 79: June 01
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** Concluded another item from the freeCodeCamp (Pass an Array as Props), I took the time to capitalize with JS (algorithms). I look forward to my relocation to take place soon so that I can finally return, and this time without playing around to synchronize time. I have taken advantage of the change to live a bit more the algorithms of real life and I can say with vehemence that the vision, experience is completely different from the one that I once had. This is another opportunity and this has inspired me a lot.There is my small and profound progress.
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
