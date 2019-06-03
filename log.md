@@ -867,4 +867,15 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+## Day 80: June 02
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** Even with all the existential impediments, I'm getting halfway in react (yay)! There is an algorithm example in Github (Another solution to capitalize), today I just took a look at my personal website, but nothing significant. Time is running, but I've been trying to go beyond my expectations and it's working.Happy eighty Day!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
 
