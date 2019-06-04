@@ -878,4 +878,15 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+## Day 81: June 03
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** One more react-freecodecamp item (Access Props Using this.props) completed! I want to be at my new address soon, to get things happen here too! 
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
 
