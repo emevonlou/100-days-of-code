@@ -889,4 +889,14 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+## Day 82: June 04
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** Finally I'm in the new house, all very new to me, but proportionally wonderful. I was driving these two days of 'irreconcilable time' using my 4G signal to search / read books on algorithms and react (With this signal, it was impossible to watch videos for a long time - I had no way to put more credits, so I did well economic =D). When you return, no matter how small the time of withdrawal, you get a bit bugged (It's a risky task that I point out to the bravest), but this is so important, because somehow it answers the question you asked yourself even when you start all this: When you have a will that is above your tiredness, it is because this is your way. There's an algorithm in GitHub (printing steps- and, of course, a funny bug beforehand), I've finished two more items from the react session and let's move on!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
 
