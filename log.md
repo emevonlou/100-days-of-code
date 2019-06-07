@@ -911,3 +911,14 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+
+## Day 84: June 07
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** I did react exercises, following an understandable rhythm, creating one, two, and even multiple components. I exported, cared, joked with jsx like I had never done. I stopped in the "Write a Simple Counter" item of the FreeCodeCamp, I am adapted to the way that I wanted, without haste. has an algorithm in JS in my GitHub and concludes six more items from my Udemy course. Mission accomplished today. Come soon tomorrow!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
