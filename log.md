@@ -889,11 +889,22 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
-## Day 82: June 04
+## Day 82: June 05
 
 **Today's Progress**: React(In progress)
 
 **Thoughts:** Finally I'm in the new house, all very new to me, but proportionally wonderful. I was driving these two days of 'irreconcilable time' using my 4G signal to search / read books on algorithms and react (With this signal, it was impossible to watch videos for a long time - I had no way to put more credits, so I did well economic =D). When you return, no matter how small the time of withdrawal, you get a bit bugged (It's a risky task that I point out to the bravest), but this is so important, because somehow it answers the question you asked yourself even when you start all this: When you have a will that is above your tiredness, it is because this is your way. There's an algorithm in GitHub (printing steps- and, of course, a funny bug beforehand), I've finished two more items from the react session and let's move on!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 83: June 06
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** Returning to the active in the code finally (YAY). I confess, I've never felt such a time-consuming change of address. I felt the most desolate comic meme the day I was near the code with just the books (I love to practice, literally). My days at FreeCodeCamp be reaffirmations of my course at Udemy, this provided me with a singular understanding! The react with your virtual DOM shows well for what came: track changes behind the scenes, and do react! Providing indirect changes of state is another thing that provokes reactions that smile in innocent self-love. I stopped at the "Bind 'this to a Class Method" item so I can say that I'm halfway through the challenges at React. It has new algorithm in JS on GitHub as well. Very happy to finally be able to say that I'm back.
 
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
