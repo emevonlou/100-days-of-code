@@ -922,3 +922,13 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+
+## Day 85: June 08
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** Concludes three more items from the Freecodecamp react session. I put a new solution for the pyramid in js-github (algorithm). I am in the period of eve of the test of the college, studying modeling of systems today too. I'm missing playing on my seemingly endless personal website. But what matters is that I keep reacting!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
