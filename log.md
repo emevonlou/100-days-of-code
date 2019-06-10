@@ -932,3 +932,13 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
+
+## Day 86: June 09
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** Concludes today three more items from the react session of the freecodecamp. It has algorithm in js in GitHub (Find vowels- I loved). I had more extensive study plans for today, bad that did not work out. However, Today is Sunday, a day of playing much more with joaquim (YAYY)!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
