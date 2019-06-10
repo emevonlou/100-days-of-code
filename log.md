@@ -942,3 +942,13 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
+
+## Day 87: June 10
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** I went through half of the seemingly endless React session (YAY!). I have the impression that I'm reacting too much (I and my craze to make the most of it is going beyond the limits- laughs). But what really matters is how it all does me a huge good. Well, I have four projects in progress that I decided to invest seriously in them after studying libraries and frameworks. I call this responsibility with knowledge, and it has provided me with the good living of each thing (this is also priceless). I put new algorithm in GitHub, concludes three more items from the freeCodeCamp react session and studied for tomorrow's college test (Web Development). Happy!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
