@@ -952,3 +952,14 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
+
+## Day 88: June 11
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** Conclude a few more items from the freecodecamp react session, I deliberately studied for college tomorrow (Usability Engineering) and put more algorithm on JS on GitHub. I would like to say everything I have lived and felt today, my proof of web development was wonderful, this, I must also the community along with the extraordinary idea of the 100 days of code. My achievement is to remind myself in every line of code, of all who are on this journey and to know that each step of my future will never be mine alone,no longer, but of all of us. Thank you all.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
