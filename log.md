@@ -974,3 +974,11 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+## Day 90: June 14
+
+**Today's Progress**: React(In progress)
+
+**Thoughts:** Today was the day to start saying goodbye to the react session of the freecodecamp with category. I was unable to synchronize the course of udemy entirely with freecodecamp, the course is quite long while the session of the freecodecamp is more dynamic, fast. So I decided to have fun building different possibilities of returning multi elements (adjacent) from just one component (one of my favorite possibilities was the React.Fragment-YAY). My college exams are over today, so I had a little more time. I put more algorithm in Github and decided to finish just one freecodecamp item today, to generate in me a tasty final thriller.
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
