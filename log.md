@@ -982,3 +982,13 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 91: June 15
+
+**Today's Progress**: React(Completed)
+
+**Thoughts:** I concluded the last items of the React session, knowing with certainty, that this was just the beginning of an absolute series in my life. The react brought me closer to the javascript language (because I did not stop exercising algorithms), it opened me the chance to know and recognize in jsx a wonderful opportunity to work with components promoting the union of much of what I have been learning also in parallel. As it was during the week, today I am with allergic crisis- Rhinitis (I know that is not the case) but I remember that I had problems on a code day so, but this time I said no to everything that could stop me to accomplish this feat. I wished to finish the react session today, I preferred to face biology, making the moment more precious for me. It has algorithm in GitHub (building tree- I loved doing this). And how will it be tomorrow? Have more!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
