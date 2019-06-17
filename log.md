@@ -992,3 +992,14 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+## Day 92: June 16
+
+**Today's Progress**: Redux(Start)
+
+**Thoughts:** So today I start the learning work with the unidirectional implementation called Redux. I have no idea what I will find (I do not have), but today I have been reading about it and just knowing that it is an implementation for solving problems, I was already delighted. Yes, I am looking forward to the production of my calculator, I have matured the idea with code, I wait for the end of this journey of 'Front End Libraries' to return with a focus proportional to what I have had here, to my projects so worked and protected. I usually say that my projects are my 'green light', so that everything I follow in learning, I try to see in them some assignment, I write down and I go ahead with the commitment to return to the end of everything, as everyone who practices disinterested fidelity. I put algorithm in GitHub (of course), concludes the first item in the Redux session(I continue with my React / redux course of udemy). Let's move on!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
