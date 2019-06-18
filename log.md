@@ -1015,3 +1015,13 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+## Day 94: June 18
+
+**Today's Progress**: Redux(Completed)
+
+**Thoughts:** And now begins my literal countdown to the end of my beloved logs. Yes, six days to the end of a journey, the starting point for higher, more mature things, but gratitude to this specific past is wonderfully perpetual. I finished Redux, today I know what I can expect. Of course it is a beginner's hope, but it is also full of hope, will and humility. The Redux session, it was quick, I have the slight impression that the next one, mixing and 'chaaching' with React, things will get more excited! I put algorithm in GitHub (Validate a Binary Search Tree- YaY). Anyway, I'm still following the green light!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
