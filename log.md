@@ -1003,3 +1003,15 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
+
+## Day 93: June 17
+
+**Today's Progress**: Redux(in progress)
+
+**Thoughts:** I never thought I could do it, I never thought I could get to it with so much desire to go further! Well, I came in the middle of the Redux session today (YAY). I tried to make the most of freecodecamp, the short time I have at night doing what I like the most: Being fast and functional! Today, I can already be quick and easy (this is possible), since I started synchronizing the knowledge, organizing them, dancing with them. It is true that sometimes this sounds nostalgic, when I remember the beginning of everything, when I imagined it would be just a prototype of what I would like. Today I no longer need to imagine, I turn on the computer, I try, I try again, and again, and the seemingly impossible is there ... accomplished! It has algorithm in GitHub and I hope to finish redux tomorrow!
+
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
