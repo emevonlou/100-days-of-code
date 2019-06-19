@@ -1025,3 +1025,11 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
 
 
+## Day 95: June 19
+
+**Today's Progress**: React and Redux(Start)
+
+**Thoughts:** Well I said things were going to be exciting! This mix is becoming very important, revealing to me. I arrived in the middle of the session React and Redux, I put algorithm in Github (events). I had to go against time, I'm feeling almost in session sass, I'm not realizing the time passes (this is wonderful too). I hope tomorrow ends and begin to apply these wonders to something beautiful!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
