@@ -1053,3 +1053,14 @@ String.prototype.padStart and padEnd). I've implemented more classes in the tags
 
 **Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
 **Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
+
+
+
+## Day 98: June 22
+
+**Today's Progress**: Build a Random Quote Machine(Start)
+
+**Thoughts:** So I started the "Build a Random Quote Machine" project. It had to be with Random - who knows me knows my fascination with this property. As I already have installed the create-react-app installed globally on my machine, I did like every beginner curious, I'm applying it to my project. I created another .js file, imported some components, found bugs in my ifs with arrays - but that's fine, that curiosity is going to ring a good night. Today there was no algorithm in github, I reserved my most interesting forces to accomplish the freecodecamp task!
+
+**Link to work:** [FreeCodeCampProgress!](https://www.freecodecamp.org/emevonlou)
+**Link to work:** [MyProgress!](https://github.com/emevonlou/learning_js/tree/master/src)
